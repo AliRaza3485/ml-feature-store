@@ -1,0 +1,38 @@
+# Data Processing
+pandas
+numpy
+pyarrow
+
+# ML
+scikit-learn
+xgboost
+
+# Feature Store
+feast
+
+# Streaming
+kafka-python
+
+# API
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+
+# Database
+redis
+
+# MLOps
+mlflow
+dvc
+
+# Monitoring
+prometheus-client
+
+# Logging
+structlog
+
+# Testing
+pytest
+pytest-asyncio
+httpx
